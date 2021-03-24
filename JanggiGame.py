@@ -1,13 +1,3 @@
-# Name:             Virgilio Viernes
-# Date:             11 March 2021
-# Description:      Final Portfolio Project-- a program that simulates a game of the Korean variant 
-#                   of Chess called Janggi. Defines a JanggiGame, Board, and Pieces classes to 
-#                   allow for the creation of objects and methods that are used to mimic a game 
-#                   between two players.
-
-
-# That modules allows for nested lists to be flattened to a single list. Used in the 
-# get_attacking_moves function on line 591 and line 601 of the code.
 from itertools import chain
 
 class JanggiGame:
